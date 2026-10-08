@@ -1,0 +1,33 @@
+
+/* Mobile screen styling */
+body {
+    margin: 10px;
+    font-size: 14px;
+}
+
+/* Mobile navigation */
+nav {
+    padding: 10px;
+}
+
+/* Display links on separate lines */
+nav a {
+    display: block;
+    padding: 8px;
+    margin-bottom: 5px;
+}
+
+/* Mobile headings */
+h1 {
+    font-size: 26px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+/* Make form fields fit the screen */
+input, textarea {
+    max-width: 100%;
+    box-sizing: border-box;
+}

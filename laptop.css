@@ -1,0 +1,53 @@
+
+/* Website background and text */
+body {
+    background: linear-gradient(to right, #e8f0ff, #ffffff);
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: #333333;
+}
+
+/* Navigation menu with angled gradient */
+nav {
+    background: linear-gradient(45deg, #1e3a5f, #285c88);
+    padding: 15px;
+}
+
+
+/* Navigation links */
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+/* Main headings */
+h1 {
+    color: #1e3a5f;
+}
+
+/* Project headings */
+h2 {
+    color: #285c88;
+}
+
+/* Paragraphs */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Website footer */
+footer {
+    background-color: #1e3a5f;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 40px;
+}
+
+/* Footer paragraphs */
+footer p {
+    color: white;
+    font-size: 14px;
+}
